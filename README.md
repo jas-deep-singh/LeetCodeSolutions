@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
