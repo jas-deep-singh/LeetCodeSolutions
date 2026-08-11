@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
