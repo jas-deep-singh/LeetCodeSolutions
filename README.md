@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0901-online-stock-span) |
@@ -119,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0901-online-stock-span) |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
