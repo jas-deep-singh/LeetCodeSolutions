@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
