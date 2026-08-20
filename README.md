@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0052-n-queens-ii) |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0052-n-queens-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
