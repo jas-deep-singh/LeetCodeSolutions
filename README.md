@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0216-combination-sum-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 ## String
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0052-n-queens-ii) |
+| [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
