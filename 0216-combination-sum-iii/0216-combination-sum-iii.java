@@ -4,6 +4,9 @@ class Solution {
             result.add(new ArrayList<>(combi));
             return;
         }
+        if(n<0) {
+            return;
+        }
         for(int i=index;i<=9;i++) {
             combi.add(i);
             findCombinations(result, k-1, n-i, combi, i+1);
