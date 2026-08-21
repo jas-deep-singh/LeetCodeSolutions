@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Algorithm X
 |  |
 | ------- |
