@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Algorithm X
