@@ -1,16 +1,12 @@
 class Solution {
     public void findAllStrings(List<String> result, int n, String combi) {
-        if(combi.length()>=2) {
-            if(combi.charAt(combi.length()-1)=='0' && combi.charAt(combi.length()-1)==combi.charAt(combi.length()-2)) {
-                return;
-            }
-        }
         if(combi.length()==n) {
             result.add(combi);
             return;
         }
-        for(int i=0;i<2;i++) {
-            findAllStrings(result, n, combi+(i+""));
+        findAllStrings(result, n, combi+"1");
+        if(combi.length()==0 || combi.charAt(combi.length()-1)!='0') {
+            findAllStrings(result, n, combi+"0");
         }
     }
     public List<String> validStrings(int n) {
