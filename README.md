@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
 |  |
