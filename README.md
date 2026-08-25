@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0938-range-sum-of-bst](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0938-range-sum-of-bst) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
