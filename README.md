@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Merge Sort
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
