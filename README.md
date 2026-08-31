@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Merge Sort
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
