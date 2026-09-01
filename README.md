@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3270-find-the-key-of-the-numbers) |
 ## Depth-First Search
 |  |
