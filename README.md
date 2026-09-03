@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3270-find-the-key-of-the-numbers) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1137-n-th-tribonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -333,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
