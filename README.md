@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0228-summary-ranges) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
