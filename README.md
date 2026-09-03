@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0198-house-robber) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
