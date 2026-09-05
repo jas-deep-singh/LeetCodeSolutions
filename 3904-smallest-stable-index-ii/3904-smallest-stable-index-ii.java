@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int []prefMax = new int[n];
         int []suffMin = new int[n];
-        int minStable = Integer.MAX_VALUE, index = -1;
+        int index = -1;
         prefMax[0] = nums[0];
         suffMin[n-1] = nums[n-1];
         for(int i=1;i<n;i++) {
@@ -15,7 +15,7 @@ class Solution {
         for(int i=0;i<n;i++) {
             nums[i] = prefMax[i]-suffMin[i];
             if(nums[i]<=k) {
-                if(nums[i]<minStable) {
+                if(nums[i]<=k) {
                     return i;
                 }
             }
