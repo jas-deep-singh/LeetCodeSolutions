@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3270-find-the-key-of-the-numbers) |
+| [3870-count-commas-in-range](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3870-count-commas-in-range) |
 ## Depth-First Search
 |  |
 | ------- |
