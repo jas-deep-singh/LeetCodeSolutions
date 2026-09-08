@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0115-distinct-subsequences) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [2596-check-knight-tour-configuration](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2596-check-knight-tour-configuration) |
