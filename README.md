@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3870-count-commas-in-range](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3871-count-commas-in-range-ii) |
 ## Depth-First Search
 |  |
 | ------- |
