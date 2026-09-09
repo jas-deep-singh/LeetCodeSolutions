@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0179-largest-number) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
