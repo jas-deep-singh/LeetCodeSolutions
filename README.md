@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0938-range-sum-of-bst](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0938-range-sum-of-bst) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Tree
@@ -397,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0279-perfect-squares) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
