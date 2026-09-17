@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2596-check-knight-tour-configuration) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Simulation
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -411,4 +414,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
