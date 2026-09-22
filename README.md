@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0491-non-decreasing-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
+| [0491-non-decreasing-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String
 |  |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Algorithm X
