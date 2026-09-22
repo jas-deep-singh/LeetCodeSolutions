@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
