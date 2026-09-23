@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2596-check-knight-tour-configuration) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0938-range-sum-of-bst](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0938-range-sum-of-bst) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
 |  |
