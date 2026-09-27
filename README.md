@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
