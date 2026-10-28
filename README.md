@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0491-non-decreasing-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2596-check-knight-tour-configuration](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2596-check-knight-tour-configuration) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dancing Links
 |  |
 | ------- |
