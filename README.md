@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3665-twisted-mirror-path-count](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3904-smallest-stable-index-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3665-twisted-mirror-path-count](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2596-check-knight-tour-configuration](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2596-check-knight-tour-configuration) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3665-twisted-mirror-path-count](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dancing Links
 |  |
