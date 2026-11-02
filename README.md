@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
