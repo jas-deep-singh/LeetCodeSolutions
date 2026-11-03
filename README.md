@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3665-twisted-mirror-path-count](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3904-smallest-stable-index-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3270-find-the-key-of-the-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3871-count-commas-in-range-ii) |
 ## Depth-First Search
