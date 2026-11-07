@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1882-process-tasks-using-servers) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2404-most-frequent-even-element](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2404-most-frequent-even-element) |
 | [2596-check-knight-tour-configuration](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2596-check-knight-tour-configuration) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [1882-process-tasks-using-servers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
