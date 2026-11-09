@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1882-process-tasks-using-servers) |
@@ -547,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
