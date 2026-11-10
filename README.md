@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
