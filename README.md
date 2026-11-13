@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Design
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -539,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
