@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3904-smallest-stable-index-ii) |
