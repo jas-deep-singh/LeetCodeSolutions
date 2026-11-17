@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
