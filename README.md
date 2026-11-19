@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0135-candy) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0062-unique-paths) |
