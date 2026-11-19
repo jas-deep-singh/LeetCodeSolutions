@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1882-process-tasks-using-servers) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2404-most-frequent-even-element](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2404-most-frequent-even-element) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2596-check-knight-tour-configuration](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2596-check-knight-tour-configuration) |
 | [2747-count-zero-request-servers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2747-count-zero-request-servers) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2747-count-zero-request-servers) |
 ## Merge Sort
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
