@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jas-deep-singh/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
